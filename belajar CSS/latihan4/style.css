@@ -1,0 +1,22 @@
+/*jenis-jenis tag background :*/
+/*background-color : mengatur warna pada bg*/
+/*background-image : mengatur gambar yg akan digunakan pada bg*/
+/*background-position : mengatur posisi gambar pada bg*/
+/*background-repeat : mengatur jenis pengulangan gambar pada bg*/
+/*secara default bg-image selalu di ulang berdasarkan sumbu x*/
+
+body {
+	/*background-color: lightblue;*/
+	/*background-image: url(gambar/gradient2.png);*/
+	/*background-repeat: no-repeat;*/
+	/*bg-position :
+	untuk sumbu y : top/center/bottom
+	untuk sumbu x : left/center/right
+	atau bisa kombinasikan*/
+	/*background-position: top right;*/
+
+
+	/*atau bisa disingkat menjadi :*/
+	background : white url(gambar/gradient2.png) no-repeat top center;
+	/*urutannya ditukar tidak apa-apa*/
+}

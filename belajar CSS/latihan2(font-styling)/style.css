@@ -1,0 +1,15 @@
+/* sans-serif adalah font yang tidak memiliki kaki */
+/* serif adalah font yang memiliki kaki */
+h1 {
+	font-family: arial, verdana, sans-serif;
+	font-size: 100px;
+	font-weight: normal;
+	font-variant: small-caps;
+	font-style: italic;
+}
+
+p {
+	font-family: georgia, serif;
+	font-style: oblique;
+	line-height: 50px;
+}

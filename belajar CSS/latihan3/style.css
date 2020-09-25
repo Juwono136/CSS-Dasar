@@ -1,0 +1,14 @@
+h1 {
+	color: #730519;
+	font-size: 100px;
+	text-decoration: line-through;
+	text-transform: lowercase;
+}
+
+p {
+	text-align: justify;
+	text-indent: 100px;
+	text-transform: capitalize;
+	word-spacing: 5px;
+/* kalau jarak antar huruf gunakan letter-spacing */
+}
